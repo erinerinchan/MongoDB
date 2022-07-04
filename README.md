@@ -1,12 +1,12 @@
 # MongoDB
 
-- Create a MongoDB account
-- Get started
-- Create a new cluster
-- Network access
-- Database access
-- Connect to your cluster in MongoDB
-    - Access the connection string
+- [Create a MongoDB account](https://github.com/erinerinchan/MongoDB/blob/main/README.md#create-a-mongodb-account)
+- [Get started](https://github.com/erinerinchan/MongoDB#get-started)
+- [Create a new cluster](https://github.com/erinerinchan/MongoDB#create-a-new-cluster)
+- [Network access](https://github.com/erinerinchan/MongoDB#network-access)
+- [Database access](https://github.com/erinerinchan/MongoDB#database-access)
+- [Connect to your cluster in MongoDB](https://github.com/erinerinchan/MongoDB#connect-to-your-cluster-in-mongodb)
+    - [Access the connection string](https://github.com/erinerinchan/MongoDB#access-the-connection-string)
 
 **Updated as of July 2022*
 
